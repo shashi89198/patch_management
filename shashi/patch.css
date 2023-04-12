@@ -1,0 +1,10 @@
+.main{
+    background-color: bisque;
+    margin-left: 580px;
+    margin-top: 150px;
+    height: 400px;
+    width: 350px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
